@@ -1,0 +1,8 @@
+1. Über das Menü von Eclipse auswählen File → Import… → Git → Projetcs from Git und den Button Next > betätigen.
+2. Den Eintrag GitHub auswählen.
+Weiter mit Next >.
+3. Den Namen des Repositories frank-rahn eingeben und den Button Search betätigen.
+4. In der erscheinenden Liste den Eintrag des gewünschten Repository frank-rahn/git_test auswählen und den Button Next > auswählen.
+5. Die benötigten Branches selektieren und mit dem Button Next > zur nächsten Eingabemaske.
+6. Die Angabe des lokalen Zielverzeichnisses. Typischerweise liegt das geklonte Repository im Verzeichnis /home/<user>/git/<repository-name>.
+Die Aktion mit Finish abschließen.
